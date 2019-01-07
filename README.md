@@ -1,4 +1,4 @@
 # hello-world
 Hi man!
 
-This is just a test for create a new branch.
+This is just a test for creating a new branch.
