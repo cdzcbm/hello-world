@@ -1,2 +1,4 @@
 # hello-world
-Just try the github tutorial
+Hi man!
+
+This is just a test for create a new branch.
